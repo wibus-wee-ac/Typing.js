@@ -1,4 +1,4 @@
-# <div id="output"></div>
+# Typing.js
 Using simple JavaScript to achieve typewriter effects
 
 ## 引入js
@@ -32,5 +32,3 @@ https://cdn.jsdelivr.net/gh/wibus-wee/Typing.js/Typing.js"></script>
   })
   typing.start()
 ```
-<script src="https://cdn.jsdelivr.net/gh/wibus-wee/Typing.js/Typing.min.js"></script>
-<script>let source='Typing.js'let output=document.getElementById('output')let typing=new Typing({source,output})typing.start()</script>
